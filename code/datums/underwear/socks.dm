@@ -68,8 +68,3 @@
 	name = "Knee, rainbow"
 	underwear_name = "knee highs"
 	icon_state = "rainbow_knee"
-
-/datum/category_item/underwear/socks/fishnet
-	name = "Fishnet"
-	underwear_name = "fishnet"
-	icon_state = "fishnet"
